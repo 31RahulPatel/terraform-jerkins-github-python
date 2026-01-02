@@ -9,6 +9,10 @@ def home():
     <p>Python app deployed using <b>Jenkins + Docker</b></p>
     <p>GitHub Webhook triggered this deployment automatically.</p>
     <p>I am rahul </p>
+    <h1>🚀 CI/CD Successful!</h1>
+    <p>Python app deployed using <b>Jenkins + Docker</b></p>
+    <p>GitHub Webhook triggered this deployment automatically.</p>
+    <p>I am rahul </p>
     """
 
 @app.route("/health")
